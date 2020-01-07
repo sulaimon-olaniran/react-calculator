@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+    border-style: double;
+    border-radius:10px;
+    max-width: 320px;
+    margin: 0px auto 0px auto;
+    height: fit-content;
+    min-height: 550px;
+    background-color:darkgray;
+}
+
+
+.buttons{
+    max-width: 90%;
+    border-style: ridge;
+    min-height: 350px;
+    margin: 0px auto 0px auto;
+    margin-top: 25px;
+}
