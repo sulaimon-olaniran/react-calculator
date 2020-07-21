@@ -5,6 +5,7 @@
     padding-right: 5px;
     margin:10px auto 0px auto;
     border-style: ridge;
+    overflow : hidden;
 }
 .screenResult{
     
@@ -15,6 +16,7 @@
     font-size: 1.8em;
     width: 100%;
     letter-spacing: 1px;
+    outline : none;
     
 }
 .symbol {
